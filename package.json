@@ -1,6 +1,6 @@
 {
   "name": "eyeos-consume-service",
-  "version": "0.0.67",
+  "version": "0.0.68",
   "description": "Library to consume an eyeOS servicqe",
   "author": "eyeOS",
   "homepage": "http://www.eyeos.com/",
