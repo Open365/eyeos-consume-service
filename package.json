@@ -1,0 +1,27 @@
+{
+  "name": "eyeos-consume-service",
+  "version": "0.0.67",
+  "description": "Library to consume an eyeOS servicqe",
+  "author": "eyeOS",
+  "homepage": "http://www.eyeos.com/",
+  "main": "src/index.js",
+  "dependencies": {
+    "log2out": "*",
+    "amqp": "0.2.4",
+    "eyeos-bind": "*",
+    "eyeos-amqp": "*"
+  },
+  "devDependencies": {
+    "eyeos-gruntfile": "*",
+    "chai": "1.8.0",
+    "sinon": "1.7.3",
+    "mocha": "1.20.1",
+    "grunt": "0.4.5",
+    "grunt-npm": "0.0.2",
+    "grunt-cli": "0.1.9",
+    "grunt-init": "0.2.1",
+    "grunt-shell": "0.7.0",
+    "grunt-mocha-test": "0.11.0"
+  },
+  "license": "AGPL-3.0"
+}
